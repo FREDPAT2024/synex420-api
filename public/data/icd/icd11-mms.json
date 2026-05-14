@@ -1,0 +1,21 @@
+[
+  {"code": "1A00", "description": "Cholera"},
+  {"code": "1F40", "description": "Malaria"},
+  {"code": "1F41", "description": "Plasmodium falciparum malaria"},
+  {"code": "1F42", "description": "Plasmodium vivax malaria"},
+  {"code": "CA40", "description": "Pneumonia"},
+  {"code": "BA00", "description": "Essential hypertension"},
+  {"code": "5A11", "description": "Type 2 diabetes mellitus"},
+  {"code": "DA02", "description": "Gastritis"},
+  {"code": "GC70", "description": "Urinary tract infection"},
+  {"code": "1D00", "description": "COVID-19"},
+  {"code": "MG97", "description": "Fever"},
+  {"code": "1A01", "description": "Intestinal infection due to Shigella"},
+  {"code": "1A02", "description": "Intestinal infection due to Salmonella"},
+  {"code": "1A03", "description": "Intestinal infection due to Escherichia coli"},
+  {"code": "1A04", "description": "Intestinal infection due to Campylobacter"},
+  {"code": "1A05", "description": "Intestinal infection due to Yersinia enterocolitica"},
+  {"code": "1A06", "description": "Intestinal infection due to Vibrio parahaemolyticus"},
+  {"code": "1A07", "description": "Intestinal infection due to Clostridioides difficile"},
+  {"code": "1A08", "description": "Viral intestinal infection"}
+]
